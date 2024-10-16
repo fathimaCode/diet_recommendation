@@ -1,0 +1,275 @@
+{
+    "RuralDietPlans": {
+      "LowCalories": {
+        "Plan1": {
+          "Day1": {
+            "Breakfast": "Ragi porridge with coconut and jaggery (200 kcal)",
+            "Lunch": "Bajra roti with mixed greens and dal (350 kcal)",
+            "Snacks": "Roasted chickpeas (100 kcal)",
+            "Dinner": "Jowar roti with boiled vegetables and curd (300 kcal)"
+          },
+          "Day2": {
+            "Breakfast": "Millet upma with vegetables (250 kcal)",
+            "Lunch": "Barley khichdi with lentils and greens (400 kcal)",
+            "Snacks": "Boiled peanuts (150 kcal)",
+            "Dinner": "Wheat roti with pumpkin curry and buttermilk (350 kcal)"
+          },
+          "Day3": {
+            "Breakfast": "Broken wheat porridge with jaggery (200 kcal)",
+            "Lunch": "Rice with sprouted moong dal and gourd curry (350 kcal)",
+            "Snacks": "Fresh fruits like guava (100 kcal)",
+            "Dinner": "Sorghum roti with spinach curry (300 kcal)"
+          },
+          "Day4": {
+            "Breakfast": "Barley pancakes with honey (250 kcal)",
+            "Lunch": "Cornmeal khichdi with vegetables (400 kcal)",
+            "Snacks": "Boiled sweet potatoes (150 kcal)",
+            "Dinner": "Bajra roti with curd and vegetable curry (350 kcal)"
+          },
+          "Day5": {
+            "Breakfast": "Whole wheat upma with peanuts (200 kcal)",
+            "Lunch": "Brown rice with lentils and greens (400 kcal)",
+            "Snacks": "Roasted peanuts (150 kcal)",
+            "Dinner": "Jowar roti with mixed vegetable stew (350 kcal)"
+          },
+          "Day6": {
+            "Breakfast": "Wheat daliya with seasonal vegetables (250 kcal)",
+            "Lunch": "Pearl millet khichdi with dal (400 kcal)",
+            "Snacks": "Roasted puffed rice (100 kcal)",
+            "Dinner": "Sorghum roti with boiled vegetables and curd (350 kcal)"
+          },
+          "Day7": {
+            "Breakfast": "Barley porridge with milk and jaggery (200 kcal)",
+            "Lunch": "Rice with green lentils and vegetable curry (350 kcal)",
+            "Snacks": "Cucumber slices with salt (50 kcal)",
+            "Dinner": "Wheat roti with spinach and moong dal (300 kcal)"
+          }
+        },
+        "Plan2": {
+          "Day1": {
+            "Breakfast": "Millet pancakes with jaggery (200 kcal)",
+            "Lunch": "Sorghum roti with spinach dal (350 kcal)",
+            "Snacks": "Boiled chana with spices (100 kcal)",
+            "Dinner": "Barley khichdi with greens and curd (350 kcal)"
+          },
+          "Day2": {
+            "Breakfast": "Ragi mudde with dal (250 kcal)",
+            "Lunch": "Brown rice with leafy vegetable curry (400 kcal)",
+            "Snacks": "Baked sweet potato (150 kcal)",
+            "Dinner": "Wheat roti with mixed vegetable curry (350 kcal)"
+          },
+          "Day3": {
+            "Breakfast": "Whole wheat poha with peanuts (200 kcal)",
+            "Lunch": "Jowar roti with lentils and boiled vegetables (350 kcal)",
+            "Snacks": "Fresh guava (100 kcal)",
+            "Dinner": "Rice with moong dal and greens (350 kcal)"
+          },
+          "Day4": {
+            "Breakfast": "Pearl millet dosa with coconut chutney (200 kcal)",
+            "Lunch": "Rice with mixed vegetables and lentil curry (400 kcal)",
+            "Snacks": "Boiled peanuts (150 kcal)",
+            "Dinner": "Sorghum roti with curd and leafy greens (350 kcal)"
+          },
+          "Day5": {
+            "Breakfast": "Barley pancakes with jaggery syrup (200 kcal)",
+            "Lunch": "Bajra roti with pumpkin curry (400 kcal)",
+            "Snacks": "Roasted makhana (100 kcal)",
+            "Dinner": "Jowar roti with spinach dal (350 kcal)"
+          },
+          "Day6": {
+            "Breakfast": "Ragi porridge with groundnuts (250 kcal)",
+            "Lunch": "Cornmeal stew with vegetables (400 kcal)",
+            "Snacks": "Fresh coconut slices (100 kcal)",
+            "Dinner": "Sorghum roti with brinjal curry (350 kcal)"
+          },
+          "Day7": {
+            "Breakfast": "Millet pancakes with jaggery (200 kcal)",
+            "Lunch": "Barley khichdi with mixed greens and dal (400 kcal)",
+            "Snacks": "Boiled chana (100 kcal)",
+            "Dinner": "Rice with lentil curry and leafy vegetables (350 kcal)"
+          }
+        }
+      },
+      "MediumCalories": {
+        "Plan1": {
+          "Day1": {
+            "Breakfast": "Whole wheat upma with vegetables (300 kcal)",
+            "Lunch": "Brown rice with lentils and mixed vegetables (500 kcal)",
+            "Snacks": "Roasted chickpeas and puffed rice (150 kcal)",
+            "Dinner": "Jowar roti with pumpkin curry and curd (450 kcal)"
+          },
+          "Day2": {
+            "Breakfast": "Ragi mudde with sambar (350 kcal)",
+            "Lunch": "Sorghum roti with green leafy vegetable curry (500 kcal)",
+            "Snacks": "Boiled sweet potatoes (150 kcal)",
+            "Dinner": "Rice with spinach and lentil curry (450 kcal)"
+          },
+          "Day3": {
+            "Breakfast": "Wheat poha with peanuts (300 kcal)",
+            "Lunch": "Rice with sprouted moong dal and vegetable curry (500 kcal)",
+            "Snacks": "Fresh fruits like guava (150 kcal)",
+            "Dinner": "Sorghum roti with mixed vegetable curry (450 kcal)"
+          },
+          "Day4": {
+            "Breakfast": "Millet dosa with coconut chutney (350 kcal)",
+            "Lunch": "Brown rice with lentils and mixed vegetables (500 kcal)",
+            "Snacks": "Fresh coconut slices (150 kcal)",
+            "Dinner": "Wheat roti with pumpkin curry and curd (450 kcal)"
+          },
+          "Day5": {
+            "Breakfast": "Ragi porridge with groundnuts (300 kcal)",
+            "Lunch": "Rice with leafy vegetable curry (500 kcal)",
+            "Snacks": "Roasted peanuts (150 kcal)",
+            "Dinner": "Jowar roti with mixed vegetables and dal (450 kcal)"
+          },
+          "Day6": {
+            "Breakfast": "Barley porridge with jaggery (350 kcal)",
+            "Lunch": "Brown rice with spinach and lentils (500 kcal)",
+            "Snacks": "Baked sweet potatoes (150 kcal)",
+            "Dinner": "Rice with lentil curry and boiled vegetables (450 kcal)"
+          },
+          "Day7": {
+            "Breakfast": "Ragi dosa with coconut chutney (300 kcal)",
+            "Lunch": "Pearl millet khichdi with greens and dal (500 kcal)",
+            "Snacks": "Boiled peanuts (150 kcal)",
+            "Dinner": "Sorghum roti with curd and leafy greens (450 kcal)"
+          }
+        },
+        "Plan2": {
+          "Day1": {
+            "Breakfast": "Whole wheat toast with peanut butter (350 kcal)",
+            "Lunch": "Sorghum roti with mixed vegetables and dal (500 kcal)",
+            "Snacks": "Boiled peanuts (150 kcal)",
+            "Dinner": "Rice with green vegetable curry (450 kcal)"
+          },
+          "Day2": {
+            "Breakfast": "Ragi porridge with jaggery (300 kcal)",
+            "Lunch": "Brown rice with lentils and greens (500 kcal)",
+            "Snacks": "Roasted chickpeas and puffed rice (150 kcal)",
+            "Dinner": "Jowar roti with pumpkin curry and curd (450 kcal)"
+          },
+          "Day3": {
+            "Breakfast": "Wheat poha with peanuts and coconut (300 kcal)",
+            "Lunch": "Barley khichdi with greens and dal (500 kcal)",
+            "Snacks": "Fresh fruits like guava (150 kcal)",
+            "Dinner": "Wheat roti with mixed vegetable curry (450 kcal)"
+          },
+          "Day4": {
+            "Breakfast": "Millet pancakes with jaggery (350 kcal)",
+            "Lunch": "Cornmeal stew with vegetables (500 kcal)",
+            "Snacks": "Boiled chana (150 kcal)",
+            "Dinner": "Rice with lentil curry and mixed vegetables (450 kcal)"
+          },
+          "Day5": {
+            "Breakfast": "Ragi dosa with chutney (350 kcal)",
+            "Lunch": "Brown rice with lentils and greens (500 kcal)",
+            "Snacks": "Baked sweet potato (150 kcal)",
+            "Dinner": "Jowar roti with spinach and dal (450 kcal)"
+          },
+          "Day6": {
+            "Breakfast": "Millet upma with vegetables (350 kcal)",
+            "Lunch": "Rice with mixed vegetable curry (500 kcal)",
+            "Snacks": "Fresh coconut slices (150 kcal)",
+            "Dinner": "Sorghum roti with curd and leafy greens (450 kcal)"
+          },
+          "Day7": {
+            "Breakfast": "Whole wheat toast with peanut butter (300 kcal)",
+            "Lunch": "Pearl millet khichdi with greens and dal (500 kcal)",
+            "Snacks": "Roasted peanuts (150 kcal)",
+            "Dinner": "Rice with lentil curry and boiled vegetables (450 kcal)"
+          }
+        }
+      },
+      "HighCalories": {
+        "Plan1": {
+          "Day1": {
+            "Breakfast": "Ragi dosa with peanut chutney and ghee (500 kcal)",
+            "Lunch": "Brown rice with dal, vegetables, and ghee (650 kcal)",
+            "Snacks": "Roasted groundnuts and puffed rice (200 kcal)",
+            "Dinner": "Jowar roti with spinach curry and curd (500 kcal)"
+          },
+          "Day2": {
+            "Breakfast": "Whole wheat upma with vegetables and ghee (550 kcal)",
+            "Lunch": "Sorghum roti with dal, leafy vegetables, and curd (700 kcal)",
+            "Snacks": "Boiled sweet potatoes with jaggery (200 kcal)",
+            "Dinner": "Rice with lentil curry and mixed vegetables (600 kcal)"
+          },
+          "Day3": {
+            "Breakfast": "Millet porridge with coconut milk and jaggery (500 kcal)",
+            "Lunch": "Barley khichdi with greens and ghee (650 kcal)",
+            "Snacks": "Fried peanuts and chickpeas (200 kcal)",
+            "Dinner": "Wheat roti with mixed vegetable curry and curd (600 kcal)"
+          },
+          "Day4": {
+            "Breakfast": "Ragi mudde with sambar and ghee (550 kcal)",
+            "Lunch": "Pearl millet khichdi with greens, dal, and ghee (700 kcal)",
+            "Snacks": "Boiled chana with jaggery (200 kcal)",
+            "Dinner": "Jowar roti with vegetable curry and curd (600 kcal)"
+          },
+          "Day5": {
+            "Breakfast": "Barley pancakes with honey and ghee (500 kcal)",
+            "Lunch": "Brown rice with spinach curry and ghee (650 kcal)",
+            "Snacks": "Baked sweet potatoes with peanut butter (200 kcal)",
+            "Dinner": "Rice with lentil curry and greens (600 kcal)"
+          },
+          "Day6": {
+            "Breakfast": "Whole wheat poha with peanuts and ghee (550 kcal)",
+            "Lunch": "Bajra roti with mixed vegetables and curd (700 kcal)",
+            "Snacks": "Roasted groundnuts with jaggery (200 kcal)",
+            "Dinner": "Jowar roti with dal and vegetable curry (600 kcal)"
+          },
+          "Day7": {
+            "Breakfast": "Ragi dosa with coconut chutney and ghee (500 kcal)",
+            "Lunch": "Rice with dal, ghee, and leafy greens (650 kcal)",
+            "Snacks": "Roasted peanuts and puffed rice (200 kcal)",
+            "Dinner": "Wheat roti with mixed vegetable curry (600 kcal)"
+          }
+        },
+        "Plan2": {
+          "Day1": {
+            "Breakfast": "Millet pancakes with jaggery syrup (500 kcal)",
+            "Lunch": "Sorghum roti with dal and mixed vegetable curry (650 kcal)",
+            "Snacks": "Fried chana with peanuts (200 kcal)",
+            "Dinner": "Rice with lentil curry and curd (600 kcal)"
+          },
+          "Day2": {
+            "Breakfast": "Ragi porridge with coconut milk and ghee (550 kcal)",
+            "Lunch": "Brown rice with spinach dal and ghee (700 kcal)",
+            "Snacks": "Boiled chana with jaggery (200 kcal)",
+            "Dinner": "Jowar roti with vegetable curry and curd (600 kcal)"
+          },
+          "Day3": {
+            "Breakfast": "Barley pancakes with peanut butter (500 kcal)",
+            "Lunch": "Rice with dal, ghee, and leafy vegetables (650 kcal)",
+            "Snacks": "Roasted chickpeas and puffed rice (200 kcal)",
+            "Dinner": "Sorghum roti with dal and curd (600 kcal)"
+          },
+          "Day4": {
+            "Breakfast": "Wheat upma with vegetables and ghee (550 kcal)",
+            "Lunch": "Bajra roti with pumpkin curry and ghee (700 kcal)",
+            "Snacks": "Baked sweet potatoes with jaggery (200 kcal)",
+            "Dinner": "Rice with spinach dal and curd (600 kcal)"
+          },
+          "Day5": {
+            "Breakfast": "Millet dosa with coconut chutney and ghee (500 kcal)",
+            "Lunch": "Barley khichdi with lentils, vegetables, and ghee (650 kcal)",
+            "Snacks": "Roasted peanuts with jaggery (200 kcal)",
+            "Dinner": "Wheat roti with mixed vegetable curry (600 kcal)"
+          },
+          "Day6": {
+            "Breakfast": "Ragi dosa with peanut chutney and ghee (550 kcal)",
+            "Lunch": "Rice with dal, leafy greens, and ghee (700 kcal)",
+            "Snacks": "Boiled chana with coconut (200 kcal)",
+            "Dinner": "Jowar roti with vegetable curry and curd (600 kcal)"
+          },
+          "Day7": {
+            "Breakfast": "Whole wheat poha with peanuts and ghee (500 kcal)",
+            "Lunch": "Brown rice with spinach dal and ghee (650 kcal)",
+            "Snacks": "Fried peanuts with puffed rice (200 kcal)",
+            "Dinner": "Rice with lentil curry and greens (600 kcal)"
+          }
+        }
+      }
+    }
+  }
+  

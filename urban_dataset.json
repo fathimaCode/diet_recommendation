@@ -1,0 +1,95 @@
+{
+    "urban_diet_plan": {
+      "low_calorie": {
+        "plan_1": {
+          "day_1": {
+            "breakfast": "Oats porridge with skimmed milk and honey (200 kcal)",
+            "lunch": "Grilled chicken salad with lettuce and olive oil dressing (350 kcal)",
+            "snacks": "Greek yogurt with almonds (100 kcal)",
+            "dinner": "Stir-fried tofu with mixed vegetables (300 kcal)"
+          },
+          "day_2": {
+            "breakfast": "Whole wheat toast with avocado spread (200 kcal)",
+            "lunch": "Quinoa salad with chickpeas, cucumbers, and olive oil (350 kcal)",
+            "snacks": "Sliced carrots (50 kcal)",
+            "dinner": "Vegetable soup with tofu and herbs (300 kcal)"
+          }
+        },
+        "plan_2": {
+          "day_1": {
+            "breakfast": "Smoothie with spinach, banana, and almond milk (200 kcal)",
+            "lunch": "Zucchini noodles with marinara sauce (350 kcal)",
+            "snacks": "Apple slices with peanut butter (100 kcal)",
+            "dinner": "Baked white fish with steamed broccoli (300 kcal)"
+          },
+          "day_2": {
+            "breakfast": "Chia seed pudding with berries (200 kcal)",
+            "lunch": "Lentil salad with tomatoes and herbs (350 kcal)",
+            "snacks": "Celery sticks with hummus (50 kcal)",
+            "dinner": "Grilled vegetable wrap with whole grain tortilla (300 kcal)"
+          }
+        }
+      },
+      "medium_calorie": {
+        "plan_1": {
+          "day_1": {
+            "breakfast": "Scrambled eggs with whole wheat toast (350 kcal)",
+            "lunch": "Grilled salmon with quinoa and asparagus (500 kcal)",
+            "snacks": "Mixed nuts (150 kcal)",
+            "dinner": "Chicken stir-fry with vegetables and brown rice (500 kcal)"
+          },
+          "day_2": {
+            "breakfast": "Greek yogurt parfait with granola and fruits (350 kcal)",
+            "lunch": "Turkey and avocado sandwich on whole grain bread (500 kcal)",
+            "snacks": "Protein bar (150 kcal)",
+            "dinner": "Shrimp tacos with cabbage slaw (500 kcal)"
+          }
+        },
+        "plan_2": {
+          "day_1": {
+            "breakfast": "Smoothie bowl with mixed fruits and seeds (350 kcal)",
+            "lunch": "Chickpea curry with brown rice (500 kcal)",
+            "snacks": "Cheese and whole grain crackers (150 kcal)",
+            "dinner": "Beef stir-fry with bell peppers and jasmine rice (500 kcal)"
+          },
+          "day_2": {
+            "breakfast": "Overnight oats with almond butter and banana (350 kcal)",
+            "lunch": "Pasta salad with olives, feta, and cherry tomatoes (500 kcal)",
+            "snacks": "Fruit salad (150 kcal)",
+            "dinner": "Baked chicken with sweet potatoes and green beans (500 kcal)"
+          }
+        }
+      },
+      "high_calorie": {
+        "plan_1": {
+          "day_1": {
+            "breakfast": "Avocado toast with poached eggs (500 kcal)",
+            "lunch": "Grilled steak with roasted vegetables and quinoa (700 kcal)",
+            "snacks": "Protein shake with banana (250 kcal)",
+            "dinner": "Pasta with creamy sauce and chicken (700 kcal)"
+          },
+          "day_2": {
+            "breakfast": "French toast with syrup and berries (500 kcal)",
+            "lunch": "BBQ chicken sandwich with coleslaw (700 kcal)",
+            "snacks": "Granola bar (250 kcal)",
+            "dinner": "Stir-fried beef with broccoli and rice (700 kcal)"
+          }
+        },
+        "plan_2": {
+          "day_1": {
+            "breakfast": "Breakfast burrito with eggs, cheese, and salsa (500 kcal)",
+            "lunch": "Lamb kebabs with couscous and tzatziki (700 kcal)",
+            "snacks": "Trail mix (250 kcal)",
+            "dinner": "Seafood paella with mixed vegetables (700 kcal)"
+          },
+          "day_2": {
+            "breakfast": "Pancakes with butter and maple syrup (500 kcal)",
+            "lunch": "Tuna melt on sourdough bread (700 kcal)",
+            "snacks": "Chocolate protein bar (250 kcal)",
+            "dinner": "Roast chicken with mashed potatoes and gravy (700 kcal)"
+          }
+        }
+      }
+    }
+  }
+  
